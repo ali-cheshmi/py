@@ -6,5 +6,6 @@ for char_1 in my_str_1:
     for char_2 in my_str_2:
         if char_1 == char_2:
             print(char_1,char_2)
+            print('check git')
             m = m + 1
 print(m)
